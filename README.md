@@ -13,4 +13,8 @@ Date 15-05-25
 i have done revision of java language concepts , Aptitude ( Time and Work ) , Speaking Practices  , Revision of WebD concepts 
 <br>
 
-
+Date 26 -05-25 
+<br>
+from 20 to 26  , i have been learning  Java 
+<br>
+Aptitude   
