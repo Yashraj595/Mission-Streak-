@@ -18,3 +18,9 @@ Date 26 -05-25
 from 20 to 26  , i have been learning  Java 
 <br>
 Aptitude   
+<br>
+Date  27-05 - 2025 to 03-05-2025  , 
+<br>
+i have taken a new challenge  ,  DSA , APTITUDE AND  JS ( PROJECT ) . 
+In this challenge , there is no acadmic load , I am having enogh time to work myself ( Soft Skill and Hard Skill )  
+<br>
