@@ -24,3 +24,5 @@ Date  27-05 - 2025 to 03-05-2025  ,
 i have taken a new challenge  ,  DSA , APTITUDE AND  JS ( PROJECT ) . 
 In this challenge , there is no acadmic load , I am having enogh time to work myself ( Soft Skill and Hard Skill )  
 <br>
+
+Date 03-06-2025 to 13-06-2025  , I have done complete fontend  development  with Some basic level of Projects 
