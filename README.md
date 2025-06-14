@@ -30,3 +30,6 @@ Date 03-06-2025 to 13-06-2025  , I have done complete fontend  development  with
 I am gonno put myself with maximum  efforts  and  main focus would be on productive activities , further onwards all decision would be  in under consideration whether that decesion would feel me great or Regret like that 
 <br>
 
+Date 14- 06-2025  , Today i have done something new for myself it might be normal for others , I have created Localhost:server , printing some funny text , 
+<br>
+Further onwards i would like to keep myself in undistracted mode like Monk Mode , this  is first of new challenge  #90Days Hard and Fast rule # Day One is Done, At the End of day i am accepting my efforts 
