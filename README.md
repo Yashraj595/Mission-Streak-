@@ -33,3 +33,11 @@ I am gonno put myself with maximum  efforts  and  main focus would be on product
 Date 14- 06-2025  , Today i have done something new for myself it might be normal for others , I have created Localhost:server , printing some funny text , 
 <br>
 Further onwards i would like to keep myself in undistracted mode like Monk Mode , this  is first of new challenge  #90Days Hard and Fast rule # Day One is Done, At the End of day i am accepting my efforts 
+
+
+
+<br>
+Date : 15-05-2025 , Today  i have done  successfull installsion of MongoDb and also i have seen how mongod basic commend to perform crud operations , 
+#02  Day , i am not very happy with this productivity , i worked but not alot that creates pressure or strees 
+I used postman tool, i didn't solve any DSA problem and Aptitude , overall this was not extra odinary for me , but best part is that i learn atleast about post method 
+ 
