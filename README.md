@@ -40,6 +40,12 @@ Further onwards i would like to keep myself in undistracted mode like Monk Mode 
 Date : 15-05-2025 , Today  i have done  successfull installsion of MongoDb and also i have seen how mongod basic commend to perform crud operations , 
 #02  Day , i am not very happy with this productivity , i worked but not alot that creates pressure or strees 
 I used postman tool, i didn't solve any DSA problem and Aptitude , overall this was not extra odinary for me , but best part is that i learn atleast about post method 
+<br>
+<br>
 
  <br>
- Date : 17-06-2025  , on this date i have done resolve node js and mongodb connection setup , Revision of SQL  concepts 
+ Date : 17-06-2025  , on this date i have resolved node js and mongodb connection setup , Revision of SQL  concepts  , 50% of work productivity i have seen  rest of the day i found myself laziness , i am looking for better form myself 
+
+
+
+   
