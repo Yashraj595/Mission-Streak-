@@ -46,6 +46,10 @@ I used postman tool, i didn't solve any DSA problem and Aptitude , overall this 
  <br>
  Date : 17-06-2025  , on this date i have resolved node js and mongodb connection setup , Revision of SQL  concepts  , 50% of work productivity i have seen  rest of the day i found myself laziness , i am looking for better form myself 
 
+<br>
 
+
+<br>
+Date : 18-06-2025 , Ihis date , i have done some work on node js , Solve some  S.I. Based Question  i found , i am able to solve such question , 40% efforts  , i could put thid day 
 
    
