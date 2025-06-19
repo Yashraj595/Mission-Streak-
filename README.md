@@ -51,5 +51,11 @@ I used postman tool, i didn't solve any DSA problem and Aptitude , overall this 
 
 <br>
 Date : 18-06-2025 , Ihis date , i have done some work on node js , Solve some  S.I. Based Question  i found , i am able to solve such question , 40% efforts  , i could put thid day 
+<br>
+
+<br>
+Date : 19-06-2025 , this day , I did Aptitude ( Time and work ) almost 60% percent of the day , then i put around 1-2 hour on node js to complete rest of the work to 
+perform CRUD operation ( Post method to store data in Mongodb with the help of mognoosh , then i am here to keep it up to date about routing , Exercise was also the part 
+of day's productive input , 80%  happy with work , 5% was little bit distraction but it is okay , it happens 
 
    
