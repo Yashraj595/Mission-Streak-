@@ -57,5 +57,11 @@ Date : 18-06-2025 , Ihis date , i have done some work on node js , Solve some  S
 Date : 19-06-2025 , this day , I did Aptitude ( Time and work ) almost 60% percent of the day , then i put around 1-2 hour on node js to complete rest of the work to 
 perform CRUD operation ( Post method to store data in Mongodb with the help of mognoosh , then i am here to keep it up to date about routing , Exercise was also the part 
 of day's productive input , 80%  happy with work , 5% was little bit distraction but it is okay , it happens 
+<br>
 
-   
+
+<br>
+Date : 20-06-2025 ,  we have done some productive it starts  from 6 AM to t12 PM , Aptitude ( Speed , Distance and Time ) , Hands on practice on String inbuilt function , one aptitude test 
+overall 50% happy with output of day , but it is okay  some how  i was flow , it was slow but okay i was part of it 
+
+
