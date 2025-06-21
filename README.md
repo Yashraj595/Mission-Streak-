@@ -63,5 +63,7 @@ of day's productive input , 80%  happy with work , 5% was little bit distraction
 <br>
 Date : 20-06-2025 ,  we have done some productive it starts  from 6 AM to t12 PM , Aptitude ( Speed , Distance and Time ) , Hands on practice on String inbuilt function , one aptitude test 
 overall 50% happy with output of day , but it is okay  some how  i was flow , it was slow but okay i was part of it 
+<br>
 
-
+<br>
+Date : 20-06-2025 , I solved 10 question based on average topic , Exercise , 10% productivity , not agree with today's work 
