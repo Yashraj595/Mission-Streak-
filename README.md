@@ -1,69 +1,70 @@
-# This is not a mission , this is basic  things  what i do ,  I am tracking my self and looking forward for productive inputs 
-Author - Yashraj Singh Thakur 
+Note: This is not a mission. These are the basic things I do daily. I’m tracking myself and looking forward to productive inputs.
 
-Date 10-05-25 ( First Day of Mission Streak )
-Here is brife Introduction about how day is going 
-from  Morning to Night 
+Author: Yashraj Singh Thakur
+Start Date: 10-05-2025 (First Day of Mission Streak)
 
-<br>
-Date 11-05-25 ( Second Day of Mission Streak ) 
-<br>
+📅 Date: 10-05-2025
+This is a brief introduction about how my day went — from morning to night. It’s the beginning of my self-tracking journey.
 
-Date 15-05-25
-i have done revision of java language concepts , Aptitude ( Time and Work ) , Speaking Practices  , Revision of WebD concepts 
-<br>
+📅 Date: 11-05-2025 (Second Day of Mission Streak)
+No additional notes added.
 
-Date 26 -05-25 
-<br>
-from 20 to 26  , i have been learning  Java 
-<br>
-Aptitude   
-<br>
-Date  27-05 - 2025 to 03-05-2025  , 
-<br>
-i have taken a new challenge  ,  DSA , APTITUDE AND  JS ( PROJECT ) . 
-In this challenge , there is no acadmic load , I am having enogh time to work myself ( Soft Skill and Hard Skill )  
-<br>
+📅 Date: 15-05-2025
+I revised Java language concepts, practiced aptitude (Time and Work), did some speaking practice, and revised Web Development concepts.
 
-Date 03-06-2025 to 13-06-2025  , I have done complete fontend  development  with Some basic level of Projects ,  this is new Challenge  in that  i entered  ( Some Hard and Fast rule like that )  , 
-<br>
-I am gonno put myself with maximum  efforts  and  main focus would be on productive activities , further onwards all decision would be  in under consideration whether that decesion would feel me great or Regret like that 
-<br>
+📅 Date: 26-05-2025
+Between 20th to 26th May, I focused on learning Java and working on aptitude regularly.
 
-Date 14- 06-2025  , Today i have done something new for myself it might be normal for others , I have created Localhost:server , printing some funny text , 
-<br>
-Further onwards i would like to keep myself in undistracted mode like Monk Mode , this  is first of new challenge  #90Days Hard and Fast rule # Day One is Done, At the End of day i am accepting my efforts 
+📅 Date: 27-05-2025 to 03-06-2025
+I started a new challenge focusing on DSA, Aptitude, and a JavaScript project.
+There’s no academic load this week, so I have enough time to focus on myself — both soft skills and hard skills.
 
+📅 Date: 03-06-2025 to 13-06-2025
+I completed a full frontend development course and built some basic-level projects.
+This marks the beginning of a new challenge with some strict rules.
+From now on, I’ll push myself with maximum effort.
+Every decision I make will be evaluated based on whether it will bring pride or regret.
 
+📅 Date: 14-06-2025
+Today, I did something new for myself — it might be normal for others, but I created a local server (localhost) and printed some custom/funny text.
 
-<br>
-Date : 15-05-2025 , Today  i have done  successfull installsion of MongoDb and also i have seen how mongod basic commend to perform crud operations , 
-#02  Day , i am not very happy with this productivity , i worked but not alot that creates pressure or strees 
-I used postman tool, i didn't solve any DSA problem and Aptitude , overall this was not extra odinary for me , but best part is that i learn atleast about post method 
-<br>
-<br>
+I’ve officially entered Monk Mode — full focus, no distractions.
+This is Day One of my #90DaysHardChallenge.
+I’m proud of the effort I made today.
 
- <br>
- Date : 17-06-2025  , on this date i have resolved node js and mongodb connection setup , Revision of SQL  concepts  , 50% of work productivity i have seen  rest of the day i found myself laziness , i am looking for better form myself 
+📅 Date: 15-06-2025
+Today, I successfully installed MongoDB and learned some basic commands for performing CRUD operations using mongod.
 
-<br>
+This is Day 2 of the challenge. I’m not very happy with my productivity today.
+Although I worked, it wasn’t enough to push my limits or create pressure.
+I did use Postman and learned about the POST method, but I didn’t solve any DSA or Aptitude problems.
+Overall, it wasn’t extraordinary — but I still learned something valuable.
 
+📅 Date: 17-06-2025
+Today, I resolved the Node.js and MongoDB connection setup.
+I also revised key SQL concepts.
+My productivity was around 50% — the rest of the day was lost to laziness.
+I’m aiming to bring out a better version of myself tomorrow.
 
-<br>
-Date : 18-06-2025 , Ihis date , i have done some work on node js , Solve some  S.I. Based Question  i found , i am able to solve such question , 40% efforts  , i could put thid day 
-<br>
+📅 Date: 18-06-2025
+I worked on Node.js today and solved a few simple interest-based aptitude questions.
+I was able to solve them correctly.
+However, I only gave about 40% of my effort today — I could have done more.
 
-<br>
-Date : 19-06-2025 , this day , I did Aptitude ( Time and work ) almost 60% percent of the day , then i put around 1-2 hour on node js to complete rest of the work to 
-perform CRUD operation ( Post method to store data in Mongodb with the help of mognoosh , then i am here to keep it up to date about routing , Exercise was also the part 
-of day's productive input , 80%  happy with work , 5% was little bit distraction but it is okay , it happens 
-<br>
+📅 Date: 19-06-2025
+I spent around 60% of the day solving aptitude questions based on Time and Work.
+Then, I spent about 1–2 hours completing CRUD operations in Node.js using MongoDB and Mongoose.
+I also worked on routing and practiced some exercise.
+Overall, I’d say the day was 80% productive.
+There was a little distraction, but that’s okay — it happens.
 
+📅 Date: 20-06-2025 (Morning Session)
+Today’s productivity started at 6 AM and lasted until around 12 PM.
+I worked on Aptitude (Speed, Distance, and Time), practiced string functions, and took one aptitude test.
+I was about 50% satisfied with today’s output.
+Although it was a slow pace, I was still in the flow, and I’m happy I showed up.
 
-<br>
-Date : 20-06-2025 ,  we have done some productive it starts  from 6 AM to t12 PM , Aptitude ( Speed , Distance and Time ) , Hands on practice on String inbuilt function , one aptitude test 
-overall 50% happy with output of day , but it is okay  some how  i was flow , it was slow but okay i was part of it 
-<br>
+📅 Date: 20-06-2025 (Later Session)
+I solved 10 questions based on the “Average” topic and did a little exercise.
+Overall, I’d rate my productivity at 10% today — I’m not satisfied with the output.
 
-<br>
-Date : 20-06-2025 , I solved 10 question based on average topic , Exercise , 10% productivity , not agree with today's work 
