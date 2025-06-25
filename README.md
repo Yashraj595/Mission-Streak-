@@ -64,7 +64,9 @@ I worked on Aptitude (Speed, Distance, and Time), practiced string functions, an
 I was about 50% satisfied with today’s output.
 Although it was a slow pace, I was still in the flow, and I’m happy I showed up.
 
-📅 Date: 20-06-2025 (Later Session)
+📅 Date: 21-06-2025 (Later Session)
 I solved 10 questions based on the “Average” topic and did a little exercise.
 Overall, I’d rate my productivity at 10% today — I’m not satisfied with the output.
 
+📅 Date: 25-06-2025 (Morning Session)
+I solved LCM and HCF based questions , Research about DSA  important Patterns which will be help a lot to learn faster 
