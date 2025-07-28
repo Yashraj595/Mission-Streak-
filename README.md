@@ -70,3 +70,8 @@ Overall, I’d rate my productivity at 10% today — I’m not satisfied with th
 
 📅 Date: 25-06-2025 (Morning Session)
 I solved LCM and HCF based questions , Research about DSA  important Patterns which will be help a lot to learn faster 
+
+<br>
+📅 Date: 28-07-2025 
+In last one month , faced a lot difficulties regarding health , i promised from today onword , i will manage this repo. what task is happened in entire day , how life  is going on 
+
