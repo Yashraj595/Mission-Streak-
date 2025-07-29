@@ -75,3 +75,6 @@ I solved LCM and HCF based questions , Research about DSA  important Patterns wh
 📅 Date: 28-07-2025 
 In last one month , I faced a lot difficulties regarding health , i promised from today onword , i will manage this repo. what task is happened in entire day , how life  is going on 
 
+<br>
+📅 Date: 29-07-2025 
+today accadmic work was great but self learning was only of 2 hours , overall i am not very okay with my self , 
