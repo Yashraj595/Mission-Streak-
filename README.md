@@ -78,3 +78,14 @@ In last one month , I faced a lot difficulties regarding health , i promised fro
 <br>
 📅 Date: 29-07-2025 
 today accadmic work was great but self learning was only of 2 hours , overall i am not very okay with my self , 
+
+<br>
+📅 Date: 03-08-2025 
+🚀 Day 1 of My DSA Journey
+Kicked off my learning with 3 classic problems today:
+✅ Single Number
+✅ Majority Element
+✅ Best Time to Buy and Sell Stock
+
+Every problem solved is a step closer to mastering Data Structures & Algorithms.
+Excited to stay consistent and grow daily!
